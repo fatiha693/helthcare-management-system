@@ -12,7 +12,7 @@ public class Prescription {
         this.quantity = quantity;
     }
     
-    // Getters
+   
     public String getPatientUsername() { return patientUsername; }
     public String getMedicine() { return medicine; }
     public int getQuantity() { return quantity; }
